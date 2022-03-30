@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&center=true&vCenter=true&lines=My+name+is+Doãn+Văn+Huy;Welcome+to+my+Github)](https://git.io/typing-svg)
-<br>
-![](https://komarev.com/ghpvc/?username=huydoanx305&color=green)
-<br>
+
 <!--
 **huydoanx305/huydoanx305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
