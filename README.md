@@ -129,6 +129,6 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
     align="left"
     alt="git"
-    height="42px"
+    height="40px"
   />
 </a>
