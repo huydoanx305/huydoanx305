@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
   align="left"
   alt="csharp" 
-  height="42"
+  height="40"
  /> 
 </a>
 <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     align="left"
     alt="git"
-    height="42px"
+    height="40px"
   />
 </a>
 <a href="https://www.docker.com/" target="_blank"> 
