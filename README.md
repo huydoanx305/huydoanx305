@@ -36,8 +36,7 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/cs/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
   alt="csharp" 
   width="42" 
@@ -139,4 +138,36 @@ Here are some ideas to get you started:
     alt="git"
     height="40px"
   />
-
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    align="left"
+    alt="git"
+    height="42px"
+  />
+</a>
+<a href="https://www.docker.com/" target="_blank"> 
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    align="left"
+    alt="docker"
+    height="42px"
+  />
+</a> 
+<a href="https://reactjs.org/" target="_blank"> 
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    align="left"
+    alt="react"
+    height="42px"
+  />
+</a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> 
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+    align="left"
+    alt="redis"
+    height="42px"
+  />
+</a> 
