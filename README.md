@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"
     align="left"
-    alt="git"
+    alt="c"
     width="40"
     height="40"
   />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"
     align="left"
-    alt="git"
+    alt="c++"
     width="40"
     height="40"
   />
