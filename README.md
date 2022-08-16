@@ -25,7 +25,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://docs.microsoft.com/vi-vn/cpp/cpp/" target="_blank">
@@ -33,13 +34,15 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
   align="left"
   alt="csharp" 
+  width="40"
   height="40"
  /> 
 </a>
@@ -47,7 +50,8 @@ Here are some ideas to get you started:
   <img
     align="left"
     alt="Java"
-    height="42px"
+    width="40"
+    height="40"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"
   />
 </a>
@@ -55,7 +59,8 @@ Here are some ideas to get you started:
   <img
     align="left"
     alt="JavaScript"
-    height="42px"
+    width="40"
+    height="40"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"
   />
 </a>
@@ -64,14 +69,16 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://developer.android.com" target="_blank">
   <img
     align="left"
     alt="Android"
-    height="42px"
+    width="40"
+    height="40"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"
   />
 </a>
@@ -79,7 +86,8 @@ Here are some ideas to get you started:
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
@@ -87,14 +95,16 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
     align="left"
     alt="git"
-    height="40px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://devdocs.io/html/" target="_blank">
@@ -102,7 +112,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://devdocs.io/css/" target="_blank">
@@ -110,7 +121,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://sass-lang.com/" target="_blank">
@@ -118,7 +130,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
@@ -126,7 +139,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg"
     align="left"
     alt="git"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://jquery.com/" target="_blank">
@@ -134,7 +148,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
     align="left"
     alt="git"
-    height="40px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
@@ -142,7 +157,8 @@ Here are some ideas to get you started:
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     align="left"
     alt="git"
-    height="40px"
+    width="40"
+    height="40"
   />
 </a>
 <a href="https://www.docker.com/" target="_blank"> 
@@ -150,7 +166,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     align="left"
     alt="docker"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a> 
 <a href="https://reactjs.org/" target="_blank"> 
@@ -158,7 +175,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     align="left"
     alt="react"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> 
@@ -166,6 +184,7 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
     align="left"
     alt="redis"
-    height="42px"
+    width="40"
+    height="40"
   />
 </a> 
