@@ -36,14 +36,7 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-<a href="https://git-scm.com/" target="_blank"> 
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    align="left"
-    alt="c#"
-    height="42px"
-  />
-</a>
+
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
   alt="csharp" 
@@ -147,7 +140,14 @@ Here are some ideas to get you started:
     height="40px"
   />
 </a>
-
+<a href="https://git-scm.com/" target="_blank"> 
+  <img
+    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    align="left"
+    alt="git"
+    height="42px"
+  />
+</a>
 <a href="https://www.docker.com/" target="_blank"> 
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
