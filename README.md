@@ -36,18 +36,22 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-
-<a href="https://docs.oracle.com/en/java/" target="_blank"
-  ><img
+<a href="https://www.w3schools.com/cs/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+  align="left"
+  alt="csharp" 
+  height="42"
+ /> 
+</a>
+<a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img
     align="left"
     alt="Java"
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"
-/></a>
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
->
+  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img
     align="left"
     alt="JavaScript"
@@ -73,10 +77,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-      align="left"
-      alt="git"
-      height="42px"
-      />
+    align="left"
+    alt="git"
+    height="42px"
+  />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
   <img
@@ -88,9 +92,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://postman.com" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-      align="left"
-      alt="git"
-      height="40px"
+    align="left"
+    alt="git"
+    height="40px"
   />
 </a>
 <a href="https://devdocs.io/html/" target="_blank">
