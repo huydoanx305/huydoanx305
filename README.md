@@ -36,13 +36,7 @@ Here are some ideas to get you started:
     height="42px"
   />
 </a>
-<a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-  alt="csharp" 
-  width="42" 
-  height="42"
- /> 
-</a>
+
 <a href="https://docs.oracle.com/en/java/" target="_blank"
   ><img
     align="left"
